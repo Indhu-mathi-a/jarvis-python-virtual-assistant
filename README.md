@@ -91,7 +91,7 @@ bye
 ## 📂 Project Structure
 
 ```
-jarvis-virtual-assistant/
+jarvis-python-virtual-assistant/
 │
 ├── jarvis.py
 ├── README.md
